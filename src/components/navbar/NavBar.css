@@ -1,0 +1,17 @@
+.navigation{
+    background-color: #C2EFEB;
+    color: white;
+
+}
+.navigation>div{
+    display: flex;
+
+}
+
+a{
+    color: white;
+    font-weight: 400;
+    font-size:1.5em;
+    text-decoration: none;
+    padding: 0.5em;
+}
